@@ -1,4 +1,2 @@
 Dataset/
-.venv/
-venv/
-env/
+.venv
